@@ -24,8 +24,7 @@
   <img align="center" alt="Nane-MySql" height="30" widght="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Nane-SQlite" height="30" widght="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Nane-Python" height="30" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Nane-Python" height="30" widght="40" src="https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white"/>
-  <img align="center" alt="Nane-Python" height="30" widght="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>   
+  <img align="center" alt="Nane-PBi" height="30" widght="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>   
 </p>
 
   #
