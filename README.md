@@ -15,25 +15,36 @@
 </p>
 <p align="left">
   🔭  I'm looking to collaborate on projects.
+  
 </p>
 
+<p>
+
+  <img align="center" alt="Nane-SQL" height="30" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Nane-MySql" height="30" widght="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Nane-SQlite" height="30" widght="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="Nane-Python" height="30" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Nane-Python" height="30" widght="40" src="https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white"/>
+  <img align="center" alt="Nane-Python" height="30" widght="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>   
+</p>
+
+  #
+
 <div>
-  <img height="200em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=GeovaneNogueira&theme=dark&show_icons=true">
-   <img height="180em" src="github-readme-stats.versel.app/api/top-langs/?username=GeovaneNogueira&layout=compact&langs_count=168&theme
+
+  <a href= "https://www.linkedin.com/in/geovane-nogueirajr/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href= "https://www.instagram.com/nanenogueira_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href= "https://api.whatsapp.com/send/?phone=%2B5551996504665&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href= "mailto:geovane.amador@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href= "https://www.glassdoor.com.br/member/profile" target="_blank"><img src="https://img.shields.io/badge/Glassdoor-00A162?style=for-the-badge&logo=Glassdoor&logoColor=white"/>
+  <a href= "https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-homepage" target="_blank"><img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
+
+
+
+
+  
 </div>
 
-- 📫 How to reach me: ...
-<!--
-**GeovaneNogueira/GeovaneNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github-readme-stats.vercel.app/api?username=GeovaneNogueira&theme=dark&show_icons=true 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
